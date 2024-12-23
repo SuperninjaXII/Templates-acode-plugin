@@ -1,0 +1,16 @@
+{
+  "id": "projects.x2.com",
+  "name": "Templates",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode" : 290,
+  "price": 0,
+  "author": {
+    "name": "SuperninjaX2",
+    "email": "lunguj665@gmail.com",
+    "github": "https://github.com/SuperninjaXII"
+  }
+}
